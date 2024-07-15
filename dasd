@@ -1,0 +1,40 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5050
+    [34mall[39m: [
+      [34;4mApp\Models\Job[39;24m {#5049
+        [34mid[39m: [35m1[39m,
+        [34mtitle[39m: "[32mDirector[39m",
+        [34msalary[39m: "[32m$10,000[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Job[39;24m {#5026
+        [34mid[39m: [35m2[39m,
+        [34mtitle[39m: "[32mProgrammer[39m",
+        [34msalary[39m: "[32m$20,000[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Job[39;24m {#5025
+        [34mid[39m: [35m3[39m,
+        [34mtitle[39m: "[32mJanitor[39m",
+        [34msalary[39m: "[32m$5,000[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Job[39;24m {#5024
+        [34mid[39m: [35m4[39m,
+        [34mtitle[39m: "[32mTeacher[39m",
+        [34msalary[39m: "[32m$15,000[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+      },
+      [34;4mApp\Models\Job[39;24m {#5023
+        [34mid[39m: [35m5[39m,
+        [34mtitle[39m: "[32mArtist[39m",
+        [34msalary[39m: "[32m$1,000[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+      },
+    ],
+  }
+
